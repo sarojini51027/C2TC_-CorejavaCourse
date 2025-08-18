@@ -1,4 +1,4 @@
-package Day_3.encapsulation;
+package Day3;
 
 public class OopsConceptDemo {
 	private int serialNum;

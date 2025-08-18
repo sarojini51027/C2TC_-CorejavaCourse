@@ -1,4 +1,4 @@
-package Day_3.constructor;
+package Day3;
 
 public class Customer {
 	 private String customerName;

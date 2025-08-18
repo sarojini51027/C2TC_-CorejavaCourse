@@ -1,4 +1,4 @@
-package Day_2;
+package Day2;
 
 public class IfElseStatements {
     	public static void main(String[] args) {
