@@ -1,4 +1,4 @@
-package Day1;
+package com.tns.day1;
 
 public class Identifier {
 	public static void main(String[] args){

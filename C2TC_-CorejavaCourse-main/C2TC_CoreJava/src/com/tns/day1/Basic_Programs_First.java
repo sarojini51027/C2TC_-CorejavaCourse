@@ -1,4 +1,4 @@
-package Day1;
+package com.tns.day1;
 
 public class Basic_Programs_First {
 
