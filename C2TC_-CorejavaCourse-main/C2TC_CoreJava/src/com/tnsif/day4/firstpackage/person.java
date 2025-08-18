@@ -1,4 +1,4 @@
-package com.tnsif.day4;
+package com.tnsif.day4.firstpackage;
 
 public class person {
 	private String personName;

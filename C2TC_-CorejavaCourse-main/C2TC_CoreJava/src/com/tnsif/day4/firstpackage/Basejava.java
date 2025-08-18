@@ -1,6 +1,6 @@
-package com.tnsif.day4;
+package com.tnsif.day4.firstpackage;
 
-public class firstpackageBasejava {
+public class Basejava {
 	int varDefault=10;
 	public int varPublic=20;
 	private int varPrivate=30;
