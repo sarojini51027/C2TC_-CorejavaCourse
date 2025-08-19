@@ -29,7 +29,7 @@ public class person {
 		this.personCity = personCity;
 	}
 
-	public person() {
+	public person(String string, String string2, String string3, int i) {
 		System.out.println("Default Constructor");
 	}
 	

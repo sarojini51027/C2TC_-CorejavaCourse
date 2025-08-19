@@ -45,5 +45,9 @@ public class Person {
 	public String toString() {
 		return "Person [name=" + name + ", income=" + income + ", gender=" + gender + ", age=" + age + ", tax="+tax+"]";
 	}
+	public void displayInfo() {
+		// TODO Auto-generated method stub
+		
+	}
 	
 }
