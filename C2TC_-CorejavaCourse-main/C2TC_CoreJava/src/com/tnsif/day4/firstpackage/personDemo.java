@@ -1,9 +1,9 @@
 package com.tnsif.day4.firstpackage;
 import java.util.Scanner;
 
-public class PersonDemo {
+public class personDemo {
 	public static void main(String args[]) {
-		Person p1 = new Person(); // default constructor invoked
+		person p1 = new person(); // default constructor invoked
 
 		Scanner sc = new Scanner(System.in);
 		String name, city;
