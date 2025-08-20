@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class personDemo {
 	public static void main(String args[]) {
-		person p1 = new person(); // default constructor invoked
+		person p1 = new person(null, 0, null); // default constructor invoked
 
 		Scanner sc = new Scanner(System.in);
 		String name, city;
