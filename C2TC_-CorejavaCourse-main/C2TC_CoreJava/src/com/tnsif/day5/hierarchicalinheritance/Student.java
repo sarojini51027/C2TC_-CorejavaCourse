@@ -43,4 +43,8 @@ public class Student {
 		// TODO Auto-generated method stub
 		return null;
 	}
+	public void printData() {
+		// TODO Auto-generated method stub
+		
+	}
 }
