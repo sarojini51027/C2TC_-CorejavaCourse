@@ -12,7 +12,7 @@ public class HierarchicalInhDemo {
 		System.out.println(p1);
 
 		Employee p;
-		p = new Employee("Dhruv", 0, "Mumbai");
+		p = new Employee();
 		if (p instanceof Employee)
 			System.out.println("Person Details "+p);
 		
@@ -21,8 +21,8 @@ public class HierarchicalInhDemo {
 		System.out.println("Employee Details "+p);
 		
 
-		p = new Employee("Pankaj", "Pune", "FE", 88);
-		if (p instanceof Statement)
+		p = new Employee();
+		if (p instanceof Employee)
 			System.out.println("Student Details "+p);
 
 	}

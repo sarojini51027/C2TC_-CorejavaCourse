@@ -24,4 +24,5 @@ public class Square {
 			System.out.println("Erasing a square with side " + side);
 		}
 	}
+}
 

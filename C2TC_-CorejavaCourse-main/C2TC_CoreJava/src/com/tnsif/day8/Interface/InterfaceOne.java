@@ -1,5 +1,8 @@
 package com.tnsif.day8.Interface;
 
-public class InterfaceOne {
 
-}
+	
+	interface InterfaceOne{  
+	  void print();  
+	}  
+

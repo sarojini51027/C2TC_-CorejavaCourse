@@ -2,14 +2,10 @@ package com.tnsif.day7.overriding;
 
 import day7.Overriding.RBI;
 
-public class SBI extends RBI {
+public class ICIC extends RBI {
 	
 	public float getRateOfInterest() {
-		return 7.0f;
-	}
-
-	public SBI getObject() {
-		return this;
+		return 6.9f;
 	}
 
 }
