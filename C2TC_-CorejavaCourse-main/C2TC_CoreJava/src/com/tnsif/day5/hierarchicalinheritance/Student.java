@@ -39,12 +39,16 @@ public class Student {
 	public String toString() {
 		return "Student [clas=" + clas + ", per=" + per + ", getName()=" + getName() + ", getCity()=" + getClass() + "]";
 	}
-	private String getName() {
+	public String getName() {
 		// TODO Auto-generated method stub
 		return null;
 	}
 	public void printData() {
 		// TODO Auto-generated method stub
 		
+	}
+	public String getRollNo() {
+		// TODO Auto-generated method stub
+		return null;
 	}
 }
