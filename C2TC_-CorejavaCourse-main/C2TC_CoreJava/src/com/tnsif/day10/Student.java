@@ -4,7 +4,7 @@ public class Student {
 	private int rollNo;
 	private String name;
 
-	Student(int rollNo, String name) {
+	public Student(int rollNo, String name, int i) {
 		this.rollNo = rollNo;
 		this.name = name;
 	}
@@ -23,6 +23,11 @@ public class Student {
 
 	public void setName(String name) {
 		this.name = name;
+	}
+
+	public int getPer() {
+		// TODO Auto-generated method stub
+		return 0;
 	}
 }
 

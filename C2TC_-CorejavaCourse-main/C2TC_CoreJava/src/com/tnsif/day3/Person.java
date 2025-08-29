@@ -8,6 +8,9 @@ public class Person {
 	private int age;
 	private int tax;
 	
+	public Person(String string, String string2) {
+		// TODO Auto-generated constructor stub
+	}
 	//Getter and Setters
 	public int getTax() {
 		return tax;
