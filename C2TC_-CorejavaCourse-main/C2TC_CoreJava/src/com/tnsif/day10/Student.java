@@ -4,7 +4,7 @@ public class Student {
 	private int rollNo;
 	private String name;
 
-	public Student(String name, int i) {
+	public Student(int j, String name, int i) {
 		this.rollNo = rollNo;
 		this.name = name;
 	}
